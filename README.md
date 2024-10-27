@@ -1,5 +1,5 @@
 # Schema, vecka 42
-###### HTML & CSS, vecka 2 av 8
+###### HTML & CSS, vecka 3 av 8
 
 ## Introduktion
 
@@ -42,7 +42,8 @@ Under veckans andra del kommer vi att hoppa över till att titta på form- och t
 ### Övningar
 * [CSS Flexbox Bootcamp](https://github.com/fu-html-css-fe24/exercise-css-flexbox-bootcamp) (förra veckan)
 * [Layoutövningar](https://github.com/fu-html-css-fe24/exercise-css-layout/tree/main) (förra veckan)
-* [CSS Grid Bootcamp]()
+* [CSS Grid Bootcamp](https://github.com/fu-html-css-fe24/exercise-css-grid-bootcamp/tree/main)
+* [Poster Shop](https://github.com/fu-html-css-fe24/exercise-css-poster-shop) - Veckans Code Review-uppgift!
 * [CSS Grid Garden](https://cssgridgarden.com/#sv)
 
 
