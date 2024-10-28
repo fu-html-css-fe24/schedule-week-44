@@ -23,6 +23,7 @@ Under veckans andra del kommer vi att hoppa över till att titta på form- och t
 
 
 ### Inspelade föreläsningar
+* [28 okt, CSS Grid](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EQnw-srVR8dFt7jDjZqN-NkBIMLv3R28Hy7yxY84mhD-gg?e=sv0moK)
 
 
 ### Lektionsrepon
