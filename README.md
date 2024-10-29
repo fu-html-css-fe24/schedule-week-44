@@ -28,7 +28,7 @@ Under veckans andra del kommer vi att hoppa över till att titta på form- och t
 
 ### Lektionsrepon
 * [28 okt, CSS Grid](https://github.com/fu-html-css-fe24/lecture-28-okt)
-* [30 okt, HTML Formulär]()
+* [30 okt, HTML Formulär](https://github.com/fu-html-css-fe24/lecture-30-okt)
 
 
 ### Filmer
