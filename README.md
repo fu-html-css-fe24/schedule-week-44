@@ -53,6 +53,7 @@ Under veckans andra del kommer vi att hoppa över till att titta på form- och t
 * [CSS Grid Bootcamp](https://github.com/fu-html-css-fe24/exercise-css-grid-bootcamp/tree/main)
 * [Poster Shop](https://github.com/fu-html-css-fe24/exercise-css-poster-shop) - Veckans Code Review-uppgift!
 * [CSS Grid Garden](https://cssgridgarden.com/#sv)
+* [Form Bootcamp](https://github.com/fu-html-css-fe24/exercise-html-css-form-bootcamp)
 
 
 
