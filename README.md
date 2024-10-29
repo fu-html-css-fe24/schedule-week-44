@@ -19,7 +19,7 @@ Under veckans andra del kommer vi att hoppa över till att titta på form- och t
 
 ### Presentationer
 * [CSS Grid](https://docs.google.com/presentation/d/1Rtms09XSKPq9lJunMKeRL_Kzu4M-L42p/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* [Formulär och Tabeller]()
+* [Formulär](https://docs.google.com/presentation/d/1MOag4TqcAMKfqmw0lo0LdC2lwlNr2elK/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 
 ### Inspelade föreläsningar
@@ -28,6 +28,7 @@ Under veckans andra del kommer vi att hoppa över till att titta på form- och t
 
 ### Lektionsrepon
 * [28 okt, CSS Grid](https://github.com/fu-html-css-fe24/lecture-28-okt)
+* [30 okt, HTML Formulär]()
 
 
 ### Filmer
@@ -35,12 +36,15 @@ Under veckans andra del kommer vi att hoppa över till att titta på form- och t
 * [Learn CSS Grid in 20 minutes](https://www.youtube.com/watch?v=9zBsdzdE4sM)
 * [Get started with grid without being overwhelmed](https://www.youtube.com/watch?v=8QSqwbSztnA)
 * [Flexbox or Grid? - How to decide](https://www.youtube.com/watch?v=3elGSZSWTbM)
+* [Learn HTML tables in 4 minutes](https://www.youtube.com/watch?v=aNC6LY34yVM)
 
   
 ### Länkar
 * [Git Cheat Sheet](https://gist.github.com/Santosnr6/0741f2c607404f75fea8dc0910ded790)
 * [W3 Schools - CSS Tutorial](https://www.w3schools.com/css/)
 * [CSS Battle](https://cssbattle.dev/)
+* [W3 Schools - HTML Tables](https://www.w3schools.com/html/html_tables.asp)
+* [W3 Schools - HTML Forms](https://www.w3schools.com/html/html_forms.asp)
 
 
 ### Övningar
